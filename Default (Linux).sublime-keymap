@@ -1,0 +1,7 @@
+[
+    // Previous Bracket
+    {"keys": ["super+alt+ctrl+up"], "command": "next_bracket", "args": {"forward": false}},
+    
+    // Next Bracket
+    {"keys": ["super+alt+ctrl+down"], "command": "next_bracket", "args": {"forward": true}},
+]
