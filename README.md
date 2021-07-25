@@ -1,9 +1,9 @@
 # NextBracket
 
-A simple plugin for Sublime Text that allows you to move the caret position to the next or previous line with a bracket. If there is more than one bracket on the same line, it will move to the last one.
+A simple plugin for Sublime Text that allows you to move the caret position to the next (or previous) line with a bracket. If there is more than one bracket on the same line, it will move to the last one.
 
 ## Installation
-The easiest was is to use Package Control:
+The easiest way is to use Package Control:
  - Type cmd+shift+p to bring up the command palette.
  - Search for Package Control: Install Package
  - Search for NextBracket and hit enter.
